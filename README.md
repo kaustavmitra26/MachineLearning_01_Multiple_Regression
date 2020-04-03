@@ -20,20 +20,26 @@ ip
 ​	 +ϵ
 
 where, for i=n observations:
+
 y 
 i
 ​	 =dependent variable
+
 x 
 i
 ​	 =expanatory variables
+
 β 
 0
 ​	 =y-intercept (constant term)
+
 β 
 p
 ​	 =slope coefficients for each explanatory variable
+
 ϵ=the model’s error term (also known as the residuals)
 ​	
+
 
 The Difference Between Linear and Multiple Regression
 Linear (OLS) regression compares the response of a dependent variable given a change in some explanatory variable. However, it is rare that a dependent variable is explained by only one variable. In this case, an analyst uses multiple regression, which attempts to explain a dependent variable using more than one independent variable. Multiple regressions can be linear and nonlinear.
