@@ -45,3 +45,5 @@ The Difference Between Linear and Multiple Regression
 Linear (OLS) regression compares the response of a dependent variable given a change in some explanatory variable. However, it is rare that a dependent variable is explained by only one variable. In this case, an analyst uses multiple regression, which attempts to explain a dependent variable using more than one independent variable. Multiple regressions can be linear and nonlinear.
 
 Multiple regressions are based on the assumption that there is a linear relationship between both the dependent and independent variables. It also assumes no major correlation between the independent variables.
+
+YOUTUBE: https://www.youtube.com/watch?v=SHqOzt7bhrk&list=PLtCBuHKmdxOd8HyfVuAwioPiE1ZkG5IFR&index=5
