@@ -46,4 +46,4 @@ Linear (OLS) regression compares the response of a dependent variable given a ch
 
 Multiple regressions are based on the assumption that there is a linear relationship between both the dependent and independent variables. It also assumes no major correlation between the independent variables.
 
-YOUTUBE: https://www.youtube.com/watch?v=SHqOzt7bhrk&list=PLtCBuHKmdxOd8HyfVuAwioPiE1ZkG5IFR&index=5
+
